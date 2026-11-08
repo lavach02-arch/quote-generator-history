@@ -1,0 +1,58 @@
+[
+  {
+    "id": "fav_seed_001",
+    "quoteText": "First, solve the problem. Then, write the code.",
+    "author": "John Johnson",
+    "category": "Technology",
+    "tags": [
+      "programming",
+      "software",
+      "problem-solving"
+    ],
+    "source": "Curated Knowledge Base",
+    "notes": "Golden rule for full-stack architecture & debugging.",
+    "favoritedAt": "2026-11-05T06:11:24.626Z"
+  },
+  {
+    "id": "fav_seed_002",
+    "quoteText": "The only way to do great work is to love what you do.",
+    "author": "Steve Jobs",
+    "category": "Success",
+    "tags": [
+      "work",
+      "passion",
+      "success"
+    ],
+    "source": "Curated Knowledge Base",
+    "notes": "Daily morning motivation.",
+    "favoritedAt": "2026-11-06T06:11:24.626Z"
+  },
+  {
+    "id": "fav_seed_003",
+    "quoteText": "Simplicity is the soul of efficiency.",
+    "author": "Austin Freeman",
+    "category": "Technology",
+    "tags": [
+      "code",
+      "engineering",
+      "simplicity"
+    ],
+    "source": "Curated Knowledge Base",
+    "notes": "Keep solutions simple and clean.",
+    "favoritedAt": "2026-11-07T18:11:24.626Z"
+  },
+  {
+    "id": "fav_seed_004",
+    "quoteText": "Make it work, make it right, make it fast.",
+    "author": "Kent Beck",
+    "category": "Technology",
+    "tags": [
+      "coding",
+      "craftsmanship",
+      "engineering"
+    ],
+    "source": "Curated Knowledge Base",
+    "notes": "TDD and iterative development philosophy.",
+    "favoritedAt": "2026-11-08T05:26:24.626Z"
+  }
+]

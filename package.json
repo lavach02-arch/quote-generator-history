@@ -1,0 +1,25 @@
+{
+  "name": "quote-generator-history",
+  "version": "1.0.0",
+  "description": "Public API Quote Generator with Favorites Database Storage and Copy-to-Clipboard",
+  "main": "api/index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node backend/src/server.js",
+    "test": "node --test backend/tests/*.test.js"
+  },
+  "keywords": [
+    "quote-generator",
+    "public-api",
+    "favorites-database",
+    "workora",
+    "express",
+    "rest-api"
+  ],
+  "author": "lavach02-arch",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.1"
+  }
+}
